@@ -2,5 +2,6 @@
 Repositório da Turma 1
 alterando o read.me
 
-**texto de gabriel em markdown**
-**italico**: *oi, turma* 
+## Lista de Presença Dia 21/02/2026
+
+01 - Alex Ramos dos Santos
